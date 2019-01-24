@@ -1,0 +1,6 @@
+token= NTMwNTQ0NDUyOTE4NTc1MTA0.DytKUA.ldhTVm9hWKoxyQD9bkmSMTT8cJI
+owner= 388520564446330891
+prefix= 5
+game= 5play
+stayinchannel=false
+songinstatus=false
